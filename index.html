@@ -11,6 +11,7 @@
   <meta name="viewport" content="width=device-width,minimum-scale=1">
   <link rel="stylesheet" href="https://pichlerflachdach.github.iolib/semantic.min.css">
   <link rel="stylesheet" href="https://pichlerflachdach.github.iostyles.css">
+  <script type="text/javascript" src="https://pichlerflachdach.github.iolib/jquery.min.js"></script>
 </head>
 
 <body>
@@ -52,6 +53,35 @@
       </div>
     </div>
   </div>
+  <div id="headermenu">
+    <div class="ui container">
+       
+      <a class="headermenuitem sidebar-nav-item active"
+        href="/" title="Home">Home</a>
+      
+      <a class="headermenuitem sidebar-nav-item"
+        href="/referenzen/" title="Referenzen">Referenzen</a>
+      
+      <a class="headermenuitem sidebar-nav-item"
+        href="/ueber-uns/" title="Über uns">Über uns</a>
+      
+      <a class="headermenuitem sidebar-nav-item"
+        href="/kontakt/" title="Kontakt">Kontakt</a>
+      
+    </div>
+  </div>
+  <script type="text/javascript">
+    $(function () {
+      $('.bars').click(function (el) {
+        var open = $('#headermenu').hasClass('open');
+        if (open) {
+          $('#headermenu').removeClass('open')
+        } else {
+          $('#headermenu').addClass('open')
+        }
+      });
+    });
+  </script>
 </header>
   <main role="main">
     
@@ -197,7 +227,18 @@
         </div>
       </div>
     </div>
-  </div>
+    <div class="footermenu">
+       
+      <a class="sidebar-nav-item"
+        href="/datenschutz/" title="Datenschutz">Datenschutz</a>
+      
+      <a class="sidebar-nav-item"
+        href="/impressum/" title="Impressum">Impressum</a>
+      
+      <a class="sidebar-nav-item"
+        href="/haftungsausschluss/" title="Haftungsausschluss">Haftungsausschluss</a>
+      
+    </div>
   </div>
 </footer>
 </body>
