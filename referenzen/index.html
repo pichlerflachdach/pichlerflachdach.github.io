@@ -43,18 +43,10 @@
           </div>
         </div>
         
-        <div class="item">
-          <div class="content">
-            <a class="header">
-              Menü
-              <i class="bars middle aligned icon"></i>
-            </a>
-          </div>
-        </div>
       </div>
     </div>
   </div>
-  <div id="headermenu">
+  <div id="headermenu" class="open">
     <div class="ui container">
        
       <a class="headermenuitem sidebar-nav-item"
@@ -71,18 +63,6 @@
       
     </div>
   </div>
-  <script type="text/javascript">
-    $(function () {
-      $('.bars').click(function (el) {
-        var open = $('#headermenu').hasClass('open');
-        if (open) {
-          $('#headermenu').removeClass('open')
-        } else {
-          $('#headermenu').addClass('open')
-        }
-      });
-    });
-  </script>
 </header>
   <main role="main">
     
