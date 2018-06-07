@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on Pichler Flachdach</title>
-    <link>https://pichlerflachdach.github.io/</link>
+    <link>https://pichler-flachdach.de/</link>
     <description>Recent content in Home on Pichler Flachdach</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <lastBuildDate>Sun, 06 May 2018 20:19:54 +0200</lastBuildDate>
     
-	<atom:link href="https://pichlerflachdach.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pichler-flachdach.de/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Über uns</title>
-      <link>https://pichlerflachdach.github.io/ueber-uns/</link>
+      <link>https://pichler-flachdach.de/ueber-uns/</link>
       <pubDate>Fri, 25 May 2018 09:48:59 +0200</pubDate>
       
-      <guid>https://pichlerflachdach.github.io/ueber-uns/</guid>
+      <guid>https://pichler-flachdach.de/ueber-uns/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Referenzen</title>
-      <link>https://pichlerflachdach.github.io/referenzen/</link>
+      <link>https://pichler-flachdach.de/referenzen/</link>
       <pubDate>Fri, 25 May 2018 09:48:38 +0200</pubDate>
       
-      <guid>https://pichlerflachdach.github.io/referenzen/</guid>
+      <guid>https://pichler-flachdach.de/referenzen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kontakt</title>
-      <link>https://pichlerflachdach.github.io/kontakt/</link>
+      <link>https://pichler-flachdach.de/kontakt/</link>
       <pubDate>Fri, 25 May 2018 09:48:21 +0200</pubDate>
       
-      <guid>https://pichlerflachdach.github.io/kontakt/</guid>
+      <guid>https://pichler-flachdach.de/kontakt/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Datenschutz</title>
-      <link>https://pichlerflachdach.github.io/datenschutz/</link>
+      <link>https://pichler-flachdach.de/datenschutz/</link>
       <pubDate>Fri, 25 May 2018 09:47:15 +0200</pubDate>
       
-      <guid>https://pichlerflachdach.github.io/datenschutz/</guid>
+      <guid>https://pichler-flachdach.de/datenschutz/</guid>
       <description>Datenschutzerklärung Wir freuen uns sehr über Ihr Interesse an unserem Unternehmen. Datenschutz hat einen besonders hohen Stellenwert für die Geschäftsleitung der PICHLER FLACHDACH GmbH &amp;amp; Co. KG. Eine Nutzung der Internetseiten der PICHLER FLACHDACH GmbH &amp;amp; Co. KG ist grundsätzlich ohne jede Angabe personenbezogener Daten möglich. Sofern eine betroffene Person besondere Services unseres Unternehmens über unsere Internetseite in Anspruch nehmen möchte, könnte jedoch eine Verarbeitung personenbezogener Daten erforderlich werden. Ist die Verarbeitung personenbezogener Daten erforderlich und besteht für eine solche Verarbeitung keine gesetzliche Grundlage, holen wir generell eine Einwilligung der betroffenen Person ein.</description>
     </item>
     
     <item>
       <title>Haftungsausschluss</title>
-      <link>https://pichlerflachdach.github.io/haftungsausschluss/</link>
+      <link>https://pichler-flachdach.de/haftungsausschluss/</link>
       <pubDate>Fri, 25 May 2018 09:46:59 +0200</pubDate>
       
-      <guid>https://pichlerflachdach.github.io/haftungsausschluss/</guid>
+      <guid>https://pichler-flachdach.de/haftungsausschluss/</guid>
       <description>HAFTUNG FÜR INHALTE Die Inhalte unserer Seiten wurden mit größter Sorgfalterstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.
 Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.</description>
     </item>
     
     <item>
       <title>Impressum</title>
-      <link>https://pichlerflachdach.github.io/impressum/</link>
+      <link>https://pichler-flachdach.de/impressum/</link>
       <pubDate>Fri, 25 May 2018 09:46:31 +0200</pubDate>
       
-      <guid>https://pichlerflachdach.github.io/impressum/</guid>
+      <guid>https://pichler-flachdach.de/impressum/</guid>
       <description>PICHLER FLACHDACH GmbH &amp;amp; Co. KG
 Dorfstraße 24
 94209 Regen
@@ -83,19 +83,19 @@ elvira.beck | Design</description>
     
     <item>
       <title>Footer</title>
-      <link>https://pichlerflachdach.github.io/global/footer/</link>
+      <link>https://pichler-flachdach.de/global/footer/</link>
       <pubDate>Thu, 24 May 2018 16:23:18 +0200</pubDate>
       
-      <guid>https://pichlerflachdach.github.io/global/footer/</guid>
+      <guid>https://pichler-flachdach.de/global/footer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Header</title>
-      <link>https://pichlerflachdach.github.io/global/header/</link>
+      <link>https://pichler-flachdach.de/global/header/</link>
       <pubDate>Sun, 06 May 2018 20:19:54 +0200</pubDate>
       
-      <guid>https://pichlerflachdach.github.io/global/header/</guid>
+      <guid>https://pichler-flachdach.de/global/header/</guid>
       <description></description>
     </item>
     
