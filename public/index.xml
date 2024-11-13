@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Pichler Flachdach</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Pichler Flachdach</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <lastBuildDate>Fri, 25 May 2018 09:48:59 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Über uns</title>
+      <link>http://localhost:1313/ueber-uns/</link>
+      <pubDate>Fri, 25 May 2018 09:48:59 +0200</pubDate>
+      <guid>http://localhost:1313/ueber-uns/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Referenzen</title>
+      <link>http://localhost:1313/referenzen/</link>
+      <pubDate>Fri, 25 May 2018 09:48:38 +0200</pubDate>
+      <guid>http://localhost:1313/referenzen/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kontakt</title>
+      <link>http://localhost:1313/kontakt/</link>
+      <pubDate>Fri, 25 May 2018 09:48:21 +0200</pubDate>
+      <guid>http://localhost:1313/kontakt/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Datenschutz</title>
+      <link>http://localhost:1313/datenschutz/</link>
+      <pubDate>Fri, 25 May 2018 09:47:15 +0200</pubDate>
+      <guid>http://localhost:1313/datenschutz/</guid>
+      <description>&lt;h2 id=&#34;datenschutzerklärung&#34;&gt;Datenschutzerklärung&lt;/h2&gt;&#xA;&lt;p&gt;Wir freuen uns sehr über Ihr Interesse an unserem Unternehmen. Datenschutz hat einen besonders hohen Stellenwert für die Geschäftsleitung der PICHLER FLACHDACH GmbH &amp;amp; Co. KG. Eine Nutzung der Internetseiten der PICHLER FLACHDACH GmbH &amp;amp; Co. KG ist grundsätzlich ohne jede Angabe personenbezogener Daten möglich. Sofern eine betroffene Person besondere Services unseres Unternehmens über unsere Internetseite in Anspruch nehmen möchte, könnte jedoch eine Verarbeitung personenbezogener Daten erforderlich werden. Ist die Verarbeitung personenbezogener Daten erforderlich und besteht für eine solche Verarbeitung keine gesetzliche Grundlage, holen wir generell eine Einwilligung der betroffenen Person ein.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Haftungsausschluss</title>
+      <link>http://localhost:1313/haftungsausschluss/</link>
+      <pubDate>Fri, 25 May 2018 09:46:59 +0200</pubDate>
+      <guid>http://localhost:1313/haftungsausschluss/</guid>
+      <description>&lt;h2 id=&#34;haftung-für-inhalte&#34;&gt;HAFTUNG FÜR INHALTE&lt;/h2&gt;&#xA;&lt;p&gt;Die Inhalte unserer Seiten wurden mit größter Sorgfalterstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.&lt;/p&gt;&#xA;&lt;p&gt;Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei bekannt werden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Impressum</title>
+      <link>http://localhost:1313/impressum/</link>
+      <pubDate>Fri, 25 May 2018 09:46:31 +0200</pubDate>
+      <guid>http://localhost:1313/impressum/</guid>
+      <description>&lt;p&gt;PICHLER FLACHDACH GmbH &amp;amp; Co. KG&lt;/p&gt;&#xA;&lt;p&gt;Zum Tausendbachl 19&#xA;94209 Regen&lt;/p&gt;&#xA;&lt;p&gt;Büro: +49 [0] 9922 709920&lt;/p&gt;&#xA;&lt;p&gt;office[at]pichler-flachdach.de&lt;br&gt;&#xA;&lt;a href=&#34;https://www.pichler-flachdach.de&#34;&gt;www.pichler-flachdach.de&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;USt-IdNr.: DE315750497&lt;br&gt;&#xA;St.-Nr.: 170/172/58109&lt;/p&gt;&#xA;&lt;p&gt;Registergericht: Deggendorf&lt;br&gt;&#xA;Handelsregister: HRA 3001&lt;/p&gt;&#xA;&lt;p&gt;Geschäftsführer: Stefan Pichler&lt;br&gt;&#xA;Inhaltlich verantwortlich: Stefan Pichler&lt;/p&gt;&#xA;&lt;p&gt;Das Unternehmen nimmt nicht an Streitbeilegungsverfahren vor einer Verbraucherschlichtungsstelle teil.&lt;/p&gt;&#xA;&lt;p&gt;Design / Konzept&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://elvirabeck-design.de&#34;&gt;elvira.beck | Design&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Footer</title>
+      <link>http://localhost:1313/global/footer/</link>
+      <pubDate>Thu, 24 May 2018 16:23:18 +0200</pubDate>
+      <guid>http://localhost:1313/global/footer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Header</title>
+      <link>http://localhost:1313/global/header/</link>
+      <pubDate>Sun, 06 May 2018 20:19:54 +0200</pubDate>
+      <guid>http://localhost:1313/global/header/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
