@@ -227,21 +227,20 @@ header {
   min-height: 200px;
   padding: 10vh 0;
 
-  .vtitle {
-    display: none;
-  }
-
-  .ui.container {
+  .container {
     display: flex;
-    justify-content: space-between;
-    align-items: center;
   }
 
   .titles {
     background: rgba(255, 255, 255, 0.5);
-    padding: 1rem 2rem;
+    padding: 2rem;
+    min-width: 400px;
+    width: auto;
+    display: flex;
+    flex-direction: column;
 
     h2 {
+      display: inline-block;
       font-size: 8vh;
       font-weight: 200;
       line-height: 1.1em;
@@ -252,6 +251,7 @@ header {
 
     h3 {
       font-size: 8vh;
+      display: inline;
       line-height: 1.1em;
       margin: 0;
       padding: 0;
@@ -261,6 +261,7 @@ header {
 
     h4 {
       color: white;
+      display: inline-block;
       font-size: 1.5rem;
       font-weight: normal;
     }
